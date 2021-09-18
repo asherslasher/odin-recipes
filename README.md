@@ -1,0 +1,1 @@
+Hello, I am starting my first project through The Odin Project. The purpose of this project is to apply my basic knowledge of HTML so far. I am going to create a mock up food blog with a main recipe page, followed by three separate recipe pages that can be linked to from the first page.
